@@ -1,0 +1,9 @@
+## Interface: 70000
+## Version: 1.0.0
+## Title: WarriorMonitor
+## Notes: Monitor Shield Block, Ignore Pain and Focused Rage
+## Author: Cali - Alleria EU
+
+embeds.xml
+
+core.lua
